@@ -15,7 +15,10 @@ A calculation method is in general for praying times as follows:
 
 Most countries adhere to one of the above methods, and then tune the timings further, sometime to reflect some countries their own calculations, the module has an option by adding a few minutes correction in the configuration.
 
-![Screenshot](screenshot.png)
+![Screenshot](waktudoa_module_.png)
+![Screenshot](ShalahTime_.png)
+![Screenshot](IqomahStatus_.png)
+
 
 ## Installation
 Clone this repository in your modules folder, and install dependencies:
