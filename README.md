@@ -34,7 +34,7 @@ npm install
 Go to the MagicMirror/config directory and edit the config.js file.
 Add the module to your modules array in your config.js.
 
-```
+````javascript
 {
         module: "waktudoa",
         position: "middle_center",
@@ -60,7 +60,7 @@ Add the module to your modules array in your config.js.
        CalcMethods: 'MWL',
                 }
 },
-```
+````
 To get your latitude and longitude, you can go to https://latitudelongitude.org
 
 ## Module configuration
