@@ -1,0 +1,16 @@
+{
+  "name": "waktudoa",
+  "version": "0.0.1",
+  "description": "MagicMirror module for Islamic Prayer Time",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustatr/waktudoa.git"
+  },
+  "main": "waktudoa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tjetjep Rustandi",
+  "license": "MIT",
+  }
+}

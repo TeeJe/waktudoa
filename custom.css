@@ -1,0 +1,73 @@
+/*****************************************************
+ * Magic Mirror                                      *
+ * Custom CSS                                        *
+ *                                                   *
+ * By Michael Teeuw http://michaelteeuw.nl           *
+ * MIT Licensed.                                     *
+ *                                                   *
+ * Add any custom CSS below.                         *
+ * Changes to this files will be ignored by GIT. *
+ *****************************************************/
+
+body {
+
+ }
+ .newsfeed title {
+     color:red;
+ }
+ .calendar header {
+     color:cyan;
+ }
+ .kataislami {
+     width: 1700px;
+ }
+ .planetrise {
+   width: 320px;
+ }
+ .islamnews {
+   width: 1500px;
+ }
+ .newsfeedOld {
+   width: 1000px;
+ }
+ .medlar {
+   font-size: 40px;
+   line-height: 40px;
+ }
+ .medlar2 {
+   font-size: 50px;
+   line-height: 50px;
+ }
+ .medlar3 {
+   font-size: 65px;
+   line-height: 65px;
+ }
+ .xxlarge {
+   font-size: 85px;
+   line-height: 85px;
+   letter-spacing: -3px;
+ }
+ .xxxlarge {
+   font-size: 100px;
+   line-height: 100px;
+   letter-spacing: -3px;
+ }
+ .large4 {
+   font-size: 120px;
+   line-height: 120px;
+   letter-spacing: -3px;
+ }
+ .large5 {
+   font-size: 130px;
+   line-height: 130px;
+   letter-spacing: -3px;
+ }
+ .large6 {
+   font-size: 200px;
+   line-height: 200px;
+   letter-spacing: 5px;
+ }
+
+ .MMM-Lunartic .header {
+   color: white;               /* Header color. Default is white. */
+ }
